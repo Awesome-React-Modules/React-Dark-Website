@@ -1,6 +1,6 @@
 # React-Dark-Website
 
-Production repository for React-Dark. To see the live demo click [here](https://codepen.io/kuljeet-123/pen/zYGWyoY)
+Production repository for React-Dark. To see the live App click [here](https://react-dark.netlify.com/)
 
 ### Prerequisites
 * npm
@@ -15,6 +15,11 @@ Production repository for React-Dark. To see the live demo click [here](https://
 ```
 npm install --save react-dark	
 ```
+
+## Playground
+
+Find Codepen Implementation of the module [here](https://codepen.io/kuljeet-123/pen/zYGWyoY) .
+
 
 ## Available Scripts
 
